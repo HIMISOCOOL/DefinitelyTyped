@@ -1,6 +1,6 @@
 {
   "private": true,
-  "dependencies": {
+  "devDependencies": {
     "graphql": "^14.5.3"
   }
 }
